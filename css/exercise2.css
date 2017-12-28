@@ -1,0 +1,57 @@
+#page_content h1{
+	background-color:white ;
+	color: black;
+}
+
+#page_content ul li{
+	background-color:white;
+	color: black;
+}
+
+.color-info{
+	border: 3px solid black;
+	margin: 10px;
+}
+
+#about_blue {
+	background-color: #6495ED;
+}
+
+p {
+	color: black;
+}
+
+#about_blue ul li {
+	background-color: #6495ED;
+	color: blue;
+}
+#about_yellow{
+	background-color: #FFEBCD;
+}
+
+#about_yellow ul li {
+	background-color: #FFEBCD;
+	color: orange;
+}
+
+.color-info h2{
+	color: black;
+}
+
+.nav {
+	background-color: red;
+}
+
+.important {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+ul.nav li{
+	display: inline-block;
+	padding-right: 10px;
+}
+
+.nav a {
+	color:white;
+}
